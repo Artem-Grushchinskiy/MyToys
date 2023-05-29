@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MyToys/static/css/main.a43a1dd2.css",
+    "main.js": "/MyToys/static/js/main.07d3183d.js",
+    "index.html": "/MyToys/index.html",
+    "main.a43a1dd2.css.map": "/MyToys/static/css/main.a43a1dd2.css.map",
+    "main.07d3183d.js.map": "/MyToys/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a43a1dd2.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
